@@ -1,6 +1,6 @@
-# 🚀 NextVerse
+# 🚀 Nextopedia
 
-Welcome to **NextVerse** – a universe of my Next.js journey! 🌍✨
+Welcome to **Nextopedia** – a universe of my Next.js journey! 🌍✨
 
 This repository serves as a personal space where I document my learning, experiments, and projects with **Next.js**. Whether you're a beginner or an experienced developer, you might find something useful here! 😊
 
@@ -33,15 +33,15 @@ This repository serves as a personal space where I document my learning, experim
 - **TypeScript** – Ensuring type safety and scalability
 - **Tailwind CSS** – For beautiful, responsive styling
 - **Redux-Saga** – Efficient state management
-- **MongoDB/Firebase** – Database & backend services
-- **Vercel/AWS** – Deployment & hosting
+- **MongoDB** – Database & backend services
+- **Vercel** – Deployment & hosting
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-📦 NextVerse
+📦 Nextopedia
  ┣ 📂 notes/              # Organized Next.js notes
  ┣ 📂 projects/           # My Next.js projects
  ┣ 📂 snippets/           # Useful code snippets
@@ -55,13 +55,13 @@ This repository serves as a personal space where I document my learning, experim
 
 1️⃣ Clone the repo:
 ```bash
-git clone https://github.com/yourusername/NextVerse.git
+git clone https://github.com/Divyesh032040/Nextopedia.git
 ```
 
 2️⃣ Install dependencies:
 ```bash
-cd NextVerse
-npm install  # or yarn install
+cd Nextopedia
+npm install  # or yarn insta
 ```
 
 3️⃣ Start the development server:
@@ -88,9 +88,10 @@ This is a personal learning repo, but if you find something interesting or want 
 
 ## 📢 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📧 Email: your.email@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/divyesh-parmar-/)  
+🐦 [Twitter](https://twitter.com/parmar_div45704)  
+📑 [Medium](https://medium.com/@Divyesh032040)
+📧 Email: divyeshparmar607@gmail.com
 
 ---
 
