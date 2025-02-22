@@ -90,7 +90,7 @@ This is a personal learning repo, but if you find something interesting or want 
 
 💼 [LinkedIn](https://www.linkedin.com/in/divyesh-parmar-/)  
 🐦 [Twitter](https://twitter.com/parmar_div45704)  
-📑 [Medium](https://medium.com/@Divyesh032040)
+📑 [Medium](https://medium.com/@Divyesh032040)  
 📧 Email: divyeshparmar607@gmail.com
 
 ---
